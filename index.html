@@ -281,5 +281,37 @@
         </div>
     </section>
 
+    <!--Form-->
+    <section id="formulario">
+        <div class="container py-5">
+            <div class="pb-lg-5">
+                <h3 class="text-white text-center mt-2">CONTACTO
+                </h3>
+                <hr class="container">
+            </div>
+
+
+            <form id="myForm" name="input" action="#" method="post">
+                <div class="form-group">
+                    <label for="exampleFormControlInput1">Nombre</label>
+                    <input type="email" class="form-control" id="exampleFormControlInput1">
+                </div>
+                <div class="form-group">
+                    <label for="exampleFormControlInput1">Asunto</label>
+                    <input type="email" class="form-control" id="exampleFormControlInput2">
+                </div>
+
+                <div class="form-group">
+                    <label for="exampleFormControlTextarea1">Mensaje</label>
+                    <textarea class="form-control" id="exampleFormControlTextarea1" rows="5"></textarea>
+                </div>
+            </form>
+            <!-- btn form-->
+            <button type="submit" class="btn" data-toggle="modal" data-target="#exampleModal"
+                onclick="resetForm();">Enviar</button>
+
+        </div>
+    </section>
+
 
 </body>
