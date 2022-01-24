@@ -1,0 +1,126 @@
+/* Navbar */
+nav {
+    background-color: #2F9AA4;
+    height: 5em;
+    
+    
+}
+
+/* .navbar-brand {
+    font-weight: 400;
+}
+
+.navbar-brand img{
+    height: 1.5em;
+} */
+
+#Layer_1{
+    width: 1.5em;
+    height: auto;
+}
+.navbar-item {
+    
+    width: 0.5rem;
+    font-size: 1.5em;
+    font-family: "Oswald";
+    font-weight: 700;
+}
+
+.menuu {
+    background-color: #2F9AA4;
+}
+
+#carouselbox{
+    padding-top: 5em;
+}
+#Quienes-somos{
+    background: #000000;
+}
+
+#Quienes-somos hr, i{
+    background-color: #0DCAF0;
+}
+#Quienes-somos hr{
+    background-color: #212529;
+}
+
+.card-borde{
+    border-radius: 0%;
+    border-color: #000000;
+    
+}
+.card-body{
+    background-color: #000000;
+    border-color: #000000;
+}
+.card-text{
+    color: #ffffff;
+}
+
+#formulario {
+    background: #000000;
+}
+.form-group {
+    color: #ffffff;
+}
+
+
+
+#formulario .btn {
+    background: #0DCAF0;
+    cursor: pointer;
+}
+
+#formulario .btn:hover{
+    background-color: #2ae6f3;
+    color: white;
+
+}
+
+/* modal boton cerrar */
+.btn:hover {
+    background: #39f3b5;
+    color: rgb(255, 255, 255);
+  }
+
+
+
+/* Destacados */
+
+#Destacados{
+    background: #000000;
+}
+#Destacados hr{
+    background-color: #212529;
+}
+
+#Destacados .card-body{
+    background-color: #0DCAF0;
+   
+}
+
+#Destacados .card{  
+    border: 1px solid;
+    border-color: #ffffff;
+}
+
+#Destacados img{
+    height: 10rem;
+}
+
+/* Form */
+#formulario hr{
+    background-color: #212529;
+}
+
+#Footer{
+    background-color: #0DCAF0;
+    
+}
+#Footer a { color: inherit; } 
+
+h2 {
+    font-weight: 100;
+    font-size: 1.5em;
+}
+
